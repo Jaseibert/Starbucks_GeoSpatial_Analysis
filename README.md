@@ -6,14 +6,14 @@ This is a fun exploratory analysis of the Starbucks Store Directory, and at the 
 
 ## Project Overview:
 
-## 1. The Starbucks Store Directory
-## 2. Now let's explore the completeness of the directory
-## 3. How many Null values are in the Directory?
-## 4. What is the Country "International Market" Saturation of Starbucks?
-## 5. What cities across the world hold the most Starbucks?
-## 6. Starbucks Seoul!
-## 7. Who owns that Starbucks? - Ownership Types
-## 8. Where are these Stores?
+1. The Starbucks Store Directory
+2. Now let's explore the completeness of the directory
+3. How many Null values are in the Directory?
+4. What is the Country "International Market" Saturation of Starbucks?
+5. What cities across the world hold the most Starbucks?
+6. Starbucks Seoul!
+7. Who owns that Starbucks? - Ownership Types
+8. Where are these Stores?
 
 ## Project Packages:
 
